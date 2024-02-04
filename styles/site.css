@@ -1,0 +1,8 @@
+section{
+    display: flex;
+    padding: 5px;
+}
+div{
+    display: grid;
+    padding: 5px;
+}
