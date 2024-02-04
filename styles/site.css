@@ -1,8 +1,25 @@
-section{
+body {
+    display: inline;
+}
+.all{
+    padding-left: 230px;
+
+}
+/*shoes size 1075 × 673 px */
+.shoes {
+    display: block;
+    border-radius: 5%;
+    text-align: center;
+}
+section {
     display: flex;
     padding: 5px;
 }
-div{
+div {
     display: grid;
     padding: 5px;
+}
+.arial {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 100px;   
 }
